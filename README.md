@@ -18,9 +18,9 @@ I wanted one project in my portfolio that felt a little more systems-oriented an
 - Prints a readable terminal summary
 - Export results to JSON on command
 
-## Important
+# How to use
 
-Check LOCALTEST.md (should be right above README.md) if you'd like to test anything locally.
+If you want to use this, then check INSTRUCTIONS.md and LOCALTEST.md for reference. They should have everything you need.
 
 ## Stack
 
