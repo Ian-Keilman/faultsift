@@ -1,0 +1,9 @@
+# new file for v0.2 to fix some things
+
+from pathlib import Path
+import sys
+
+ROOT = Path(__file__).resolve().parents[1]
+
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
