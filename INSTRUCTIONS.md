@@ -1,8 +1,10 @@
 # How to Use
 
+## Note:
+The commands below were tested in Windows PowerShell. FaultSift itself is just a Python CLI tool, so it can also be run from other terminals, but some commands may need small syntax changes depending on the shell.
+
 ### 1. Clone the repo
 
-(use windows powershell)
 ```powershell
 git clone https://github.com/yourusername/faultsift.git
 cd faultsift
