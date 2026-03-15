@@ -1,0 +1,9 @@
+[project]
+name = "faultsift"
+version = "0.1.0"
+description = "A CLI for triaging Linux log files and highlighting suspicious events"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
