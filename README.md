@@ -25,9 +25,10 @@ If you want to use this, then check INSTRUCTIONS.md and LOCALTEST.md for referen
 ## Stack
 
 - Python
-- Typer
+- Regex
 - pytest
 - Rich (coming soon?)
+- Typer (might need eventually)
 
 ## Planned usage
 
