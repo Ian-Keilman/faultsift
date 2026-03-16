@@ -26,8 +26,8 @@ If you want to use this, then check INSTRUCTIONS.md and LOCALTEST.md for referen
 
 - Python
 - Typer
-- Rich
 - pytest
+- Rich (coming soon?)
 
 ## Planned usage
 
